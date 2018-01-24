@@ -54,7 +54,7 @@ public void onTestSkipped(ITestResult arg0) {
 
 public void onTestStart(ITestResult result) {
 	// TODO Auto-generated method stub
-	Log.info("----------------------Test Started----------------------");
+	Log.info("***----------------------Test Started----------------------***");
 	Log.info("----------------------"+result.getName()+"----------------------");
 }
 
