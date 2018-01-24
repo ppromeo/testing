@@ -94,3 +94,41 @@
 15:48:20.587 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
 15:48:20.612 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test----------------------
 15:48:20.612 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
+16:25:09.194 [main] INFO  resources.Listener - ----------------------Test Started----------------------
+16:25:09.196 [main] INFO  resources.Listener - ----------------------RPLogin----------------------
+16:25:09.200 [main] INFO  resources.Listener - ----------------------Test Started----------------------
+16:25:09.200 [main] INFO  resources.Listener - ----------------------RPLogin----------------------
+16:25:21.296 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Application Forms
+16:25:21.314 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Event Forms
+16:25:21.330 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Useful Links
+16:25:21.346 [main] INFO  Smoke.Com_Rom.base - Link available:Manage News
+16:25:21.362 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Applications
+16:25:21.379 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Events
+16:25:21.395 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Exceptions
+16:25:21.412 [main] INFO  Smoke.Com_Rom.base - Link available:View Applications in Workflow
+16:25:21.429 [main] INFO  Smoke.Com_Rom.base - Link available:View Events in Workflow
+16:25:21.447 [main] INFO  Smoke.Com_Rom.base - Link available:Work as Researcher
+16:25:21.447 [main] INFO  resources.Listener - ----------------------Test Success----------------------
+16:25:21.447 [main] INFO  resources.Listener - ----------------------RPLogin----------------------
+16:25:21.448 [main] INFO  resources.Listener - ----------------------Test Success----------------------
+16:25:21.448 [main] INFO  resources.Listener - ----------------------RPLogin----------------------
+16:25:23.762 [main] INFO  resources.Listener - ----------------------Test----------------------
+16:25:23.763 [main] INFO  resources.Listener - ----------------------Test Completed----------------------
+16:25:23.844 [main] INFO  resources.Listener - ----------------------Test----------------------
+16:25:23.844 [main] INFO  resources.Listener - ----------------------Test Completed----------------------
+16:26:05.515 [main] INFO  resources.Listener - ----------------------Test Started----------------------
+16:26:05.517 [main] INFO  resources.Listener - ----------------------RPLogin----------------------
+16:26:19.306 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Application Forms
+16:26:19.324 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Event Forms
+16:26:19.340 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Useful Links
+16:26:19.356 [main] INFO  Smoke.Com_Rom.base - Link available:Manage News
+16:26:19.373 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Applications
+16:26:19.392 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Events
+16:26:19.411 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Exceptions
+16:26:19.428 [main] INFO  Smoke.Com_Rom.base - Link available:View Applications in Workflow
+16:26:19.448 [main] INFO  Smoke.Com_Rom.base - Link available:View Events in Workflow
+16:26:19.465 [main] INFO  Smoke.Com_Rom.base - Link available:Work as Researcher
+16:26:19.465 [main] INFO  resources.Listener - ----------------------Test Success----------------------
+16:26:19.465 [main] INFO  resources.Listener - ----------------------RPLogin----------------------
+16:26:21.501 [main] INFO  resources.Listener - ----------------------Command line test----------------------
+16:26:21.501 [main] INFO  resources.Listener - ----------------------Test Completed----------------------

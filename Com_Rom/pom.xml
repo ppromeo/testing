@@ -18,7 +18,6 @@
         </resource>
     </resources>
   <plugins>
-   
       <plugin>
         <groupId>org.apache.maven.surefire</groupId>
   		<artifactId>surefire</artifactId>
@@ -28,8 +27,7 @@
             <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
-      </plugin>
-  
+      </plugin>  
 </plugins>
 </build>
 
@@ -63,7 +61,7 @@
   <groupId>org.testng</groupId>
   <artifactId>testng</artifactId>
   <version>6.8</version>
-  <scope>test</scope>
+  <scope>compile</scope>
 </dependency>
 
 

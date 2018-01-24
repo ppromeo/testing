@@ -9,12 +9,13 @@ import org.testng.ITestListener;
 import org.testng.ITestResult;
 
 
-import Smoke.Com_Rom.SmokeTest;
+//import Smoke.Com_Rom.SmokeTest;
 import org.testng.annotations.Test;
+import resources.Initialize;
 public class Listener implements ITestListener{
 	 public WebDriver dr;
 	 Initialize i = new Initialize();
-	private static Logger Log = LogManager.getLogger(SmokeTest.class.getName());
+	private static Logger Log = LogManager.getLogger(Listener.class.getName());
 
 public void onFinish(ITestContext result) {
 	// TODO Auto-generated method stub

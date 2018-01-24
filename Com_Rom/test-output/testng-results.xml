@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="13293" started-at="2018-01-24T10:18:07Z" finished-at="2018-01-24T10:18:20Z">
+  <suite name="Suite" duration-ms="14580" started-at="2018-01-24T10:55:09Z" finished-at="2018-01-24T10:55:23Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="13293" started-at="2018-01-24T10:18:07Z" finished-at="2018-01-24T10:18:20Z">
+    <test name="Test" duration-ms="14580" started-at="2018-01-24T10:55:09Z" finished-at="2018-01-24T10:55:23Z">
       <class name="Smoke.Com_Rom.SmokeTest">
-        <test-method status="PASS" signature="RPLogin()[pri:0, instance:Smoke.Com_Rom.SmokeTest@6b81ce95]" name="RPLogin" duration-ms="10970" started-at="2018-01-24T15:48:07Z" finished-at="2018-01-24T15:48:18Z">
+        <test-method status="PASS" signature="RPLogin()[pri:0, instance:Smoke.Com_Rom.SmokeTest@5b239d7d]" name="RPLogin" duration-ms="12257" started-at="2018-01-24T16:25:09Z" finished-at="2018-01-24T16:25:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RPLogin -->
-        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:Smoke.Com_Rom.SmokeTest@6b81ce95]" name="CloseDriver" is-config="true" duration-ms="2309" started-at="2018-01-24T15:48:18Z" finished-at="2018-01-24T15:48:20Z">
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:Smoke.Com_Rom.SmokeTest@5b239d7d]" name="CloseDriver" is-config="true" duration-ms="2313" started-at="2018-01-24T16:25:21Z" finished-at="2018-01-24T16:25:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseDriver -->
