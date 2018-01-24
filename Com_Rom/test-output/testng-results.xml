@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13293" started-at="2018-01-24T10:18:07Z" finished-at="2018-01-24T10:18:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13293" started-at="2018-01-24T10:18:07Z" finished-at="2018-01-24T10:18:20Z">
+      <class name="Smoke.Com_Rom.SmokeTest">
+        <test-method status="PASS" signature="RPLogin()[pri:0, instance:Smoke.Com_Rom.SmokeTest@6b81ce95]" name="RPLogin" duration-ms="10970" started-at="2018-01-24T15:48:07Z" finished-at="2018-01-24T15:48:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RPLogin -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:Smoke.Com_Rom.SmokeTest@6b81ce95]" name="CloseDriver" is-config="true" duration-ms="2309" started-at="2018-01-24T15:48:18Z" finished-at="2018-01-24T15:48:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- Smoke.Com_Rom.SmokeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

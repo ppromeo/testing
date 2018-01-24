@@ -1,0 +1,96 @@
+23:11:16.005 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Started----------------------
+23:11:16.007 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+23:11:28.369 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Application Forms
+23:11:28.385 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Event Forms
+23:11:28.401 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Useful Links
+23:11:28.417 [main] INFO  Smoke.Com_Rom.base - Link available:Manage News
+23:11:28.433 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Applications
+23:11:28.450 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Events
+23:11:28.467 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Exceptions
+23:11:28.484 [main] INFO  Smoke.Com_Rom.base - Link available:View Applications in Workflow
+23:11:28.500 [main] INFO  Smoke.Com_Rom.base - Link available:View Events in Workflow
+23:11:28.517 [main] INFO  Smoke.Com_Rom.base - Link available:Work as Researcher
+23:11:28.517 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Success----------------------
+23:11:28.517 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+23:11:28.739 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Default test----------------------
+23:11:28.739 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
+15:26:19.833 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Started----------------------
+15:26:19.845 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:26:49.033 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Application Forms
+15:26:49.049 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Event Forms
+15:26:49.064 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Useful Links
+15:26:49.081 [main] INFO  Smoke.Com_Rom.base - Link available:Manage News
+15:26:49.097 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Applications
+15:26:49.113 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Events
+15:26:49.129 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Exceptions
+15:26:49.145 [main] INFO  Smoke.Com_Rom.base - Link available:View Applications in Workflow
+15:26:49.161 [main] INFO  Smoke.Com_Rom.base - Link available:View Events in Workflow
+15:26:49.178 [main] INFO  Smoke.Com_Rom.base - Link available:Work as Researcher
+15:26:49.178 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Success----------------------
+15:26:49.179 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:26:51.224 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test----------------------
+15:26:51.224 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
+15:35:19.144 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Started----------------------
+15:35:19.147 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:35:19.151 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Started----------------------
+15:35:19.151 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:35:36.481 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Application Forms
+15:35:36.497 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Event Forms
+15:35:36.514 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Useful Links
+15:35:36.529 [main] INFO  Smoke.Com_Rom.base - Link available:Manage News
+15:35:36.545 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Applications
+15:35:36.561 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Events
+15:35:36.577 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Exceptions
+15:35:36.593 [main] INFO  Smoke.Com_Rom.base - Link available:View Applications in Workflow
+15:35:36.609 [main] INFO  Smoke.Com_Rom.base - Link available:View Events in Workflow
+15:35:36.625 [main] INFO  Smoke.Com_Rom.base - Link available:Work as Researcher
+15:35:36.626 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Success----------------------
+15:35:36.626 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:35:36.627 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Success----------------------
+15:35:36.627 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:35:38.950 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test----------------------
+15:35:38.950 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
+15:35:38.982 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test----------------------
+15:35:38.982 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
+15:40:23.731 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Started----------------------
+15:40:23.734 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:40:23.738 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Started----------------------
+15:40:23.738 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:40:27.052 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Failed----------------------
+15:40:27.057 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Failed----------------------
+15:40:29.074 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test----------------------
+15:40:29.075 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
+15:40:29.114 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test----------------------
+15:40:29.115 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
+15:46:02.446 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Started----------------------
+15:46:02.448 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:46:02.452 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Started----------------------
+15:46:02.452 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:46:05.566 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Failed----------------------
+15:46:05.586 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Failed----------------------
+15:46:07.601 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test----------------------
+15:46:07.601 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
+15:46:07.632 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test----------------------
+15:46:07.635 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
+15:48:07.310 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Started----------------------
+15:48:07.313 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:48:07.322 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Started----------------------
+15:48:07.322 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:48:18.128 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Application Forms
+15:48:18.144 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Event Forms
+15:48:18.161 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Useful Links
+15:48:18.177 [main] INFO  Smoke.Com_Rom.base - Link available:Manage News
+15:48:18.193 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Applications
+15:48:18.209 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Locked Events
+15:48:18.227 [main] INFO  Smoke.Com_Rom.base - Link available:Manage Exceptions
+15:48:18.244 [main] INFO  Smoke.Com_Rom.base - Link available:View Applications in Workflow
+15:48:18.260 [main] INFO  Smoke.Com_Rom.base - Link available:View Events in Workflow
+15:48:18.276 [main] INFO  Smoke.Com_Rom.base - Link available:Work as Researcher
+15:48:18.276 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Success----------------------
+15:48:18.276 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:48:18.277 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Success----------------------
+15:48:18.277 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------RPLogin----------------------
+15:48:20.587 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test----------------------
+15:48:20.587 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
+15:48:20.612 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test----------------------
+15:48:20.612 [main] INFO  Smoke.Com_Rom.SmokeTest - ----------------------Test Completed----------------------
