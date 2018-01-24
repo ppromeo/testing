@@ -8,7 +8,6 @@ import pageObjects.SUHomePage;
 
 
 public class lazyload {
-	
 	public WebDriver dr;
 	public WebElement element;	
 	
